@@ -32,9 +32,13 @@ Git · Linux · VS Code · Jupyter
 📈 What I’m Currently Learning:
 
 Advanced Deep Learning
+
 Probabilistic Modeling
+
 Reinforcement Learning
+
 Financial Time Series & Algorithmic Trading
+
 Large Language Models
 
 🌟 Projects to Check Out:
