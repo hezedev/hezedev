@@ -1,5 +1,5 @@
 👋 Hi, I’m Hezekiah — @hezecodes
-💡 Artificial Intelligence • Quant Finance • Machine Learning
+💡 Artificial Intelligence • Spatial Intelligence • Product & Tech Operations
 
 I’m passionate about building intelligent systems and exploring data-driven methods for financial modeling.
 
