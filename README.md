@@ -7,7 +7,7 @@ I’m passionate about building intelligent systems and exploring data-driven me
 
 🎓 Currently pursuing a Master’s in Artificial Intelligence at JKU Linz, Austria
 
-🤖 Interested in AI, ML, deep learning, and quantitative finance
+🤖 Interested in AI, Products, Business Intelligence and Spatial Intelligence
 
 🔬 Always exploring how algorithms, data, and mathematics create real-world impact
 
